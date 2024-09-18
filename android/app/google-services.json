@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904638534198",
+    "project_id": "flutter-alex-chat",
+    "storage_bucket": "flutter-alex-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904638534198:android:cf191c39df797b3bb3fe97",
+        "android_client_info": {
+          "package_name": "com.example.alex_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByylULUxo14gA2UqQDb7SKDJP8vx97ZRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
